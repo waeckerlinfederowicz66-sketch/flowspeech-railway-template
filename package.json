@@ -1,0 +1,24 @@
+{
+  "name": "flowspeech-railway-template",
+  "version": "1.0.0",
+  "description": "A minimal Railway template landing page for FlowSpeech text to speech workflows.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "keywords": [
+    "flowspeech",
+    "text-to-speech",
+    "ai-voice",
+    "tts",
+    "railway-template"
+  ],
+  "license": "MIT"
+}
